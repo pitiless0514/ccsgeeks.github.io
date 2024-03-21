@@ -5,4 +5,19 @@
          <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://ccsgeeks.github.io/archive/</loc>
+         <lastmod>2024-03-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ccsgeeks.github.io/upcoming/</loc>
+         <lastmod>2024-03-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ccsgeeks.github.io/upcoming/240322/</loc>
+         <lastmod>2024-03-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
