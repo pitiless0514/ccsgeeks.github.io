@@ -2,22 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ccsgeeks.github.io/</loc>
-         <lastmod>2024-04-07</lastmod>
+         <lastmod>2024-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ccsgeeks.github.io/archive/</loc>
-         <lastmod>2024-04-07</lastmod>
+         <lastmod>2024-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ccsgeeks.github.io/archive/240322/</loc>
-         <lastmod>2024-04-07</lastmod>
+         <lastmod>2024-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ccsgeeks.github.io/upcoming/</loc>
-         <lastmod>2024-04-07</lastmod>
+         <lastmod>2024-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ccsgeeks.github.io/upcoming/240412/</loc>
+         <lastmod>2024-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
